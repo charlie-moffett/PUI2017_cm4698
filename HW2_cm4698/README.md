@@ -14,4 +14,10 @@ Assignment 2: next stop information
 
 For this assignment I worked with Praveen. He showed me how to print the output text to a CSV file. We wrote the rest of our scripts ourselves.
 
+Assignment 3: read csv files with pandas
 
+I attended office hours with Ash and got some input from him troubleshooting the URL formatting to pull in my dataset from DFDATA.
+
+Extra credit: working with dates
+
+Gaurav helped me identify a workable dataset for this part of the homework and plot the Timestamp data points correctly.
