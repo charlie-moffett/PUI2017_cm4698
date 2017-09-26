@@ -12,8 +12,6 @@ try:
 except ImportError:
     import urllib.request as urllib
 
-pl.rc('font', size=15)
-
 key = sys.argv[1]
 line = sys.argv[2]
 
