@@ -1,5 +1,6 @@
 # Author: charlie moffett, nyu cusp. 2017
 
+# the following packages let me read line input arguments
 import sys
 import os
 
@@ -12,18 +13,26 @@ try:
 except ImportError:
     import urllib.request as urllib
 
+# sets the line input arguments to variables for string concatenation
+key = sys.argv[1]
+line = sys.argv[2]
+
+url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + key + "&VehicleMonitoringDetailLevel=calls&LineRef=" + line
+
+# use the json.loads method to obtain a dictionary representation of the response string 
 response = urllib.urlopen(url)
 data = response.read().decode("utf-8")
 data = json.loads(data)
 
+# rejects any line input unless exactly 4 arguments are given
 if not len(sys.argv) == 4:
     print("Invalid number of arguments. Run as: get_bus_info_cm4698.py <MTA_KEY> <BUS_LINE> <BUS_LINE>.csv")
     sys.exit()
 
+# allows me to write output to a CSV file
+fout = open(sys.argv[3], "w")
 
-
-fout = open(sys.argv[1], "w")
-
+# creates variable with core index that other variables will build off of
 veh_act = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 
 buscount = len(veh_act)
