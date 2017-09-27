@@ -2,6 +2,8 @@
 
 HW2 for PUI2017
 
+The scope of this homework includes streaming real-time data via API, reading CSV files from the CDF, and manipulating dataframes in order to plot numerical columns against one another. What was particularly interesting to me was learning how write a script that pulls in MTA bus data and printing live bus route information.
+
 Assignment 1: tracking each vehicle for a line
 
 For this assignment I worked with Jack Lundquist, Matt Dwyer, and Prince

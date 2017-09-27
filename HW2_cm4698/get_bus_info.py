@@ -36,6 +36,7 @@ fout = open(sys.argv[3], "w")
 veh_act = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 
 buscount = len(veh_act)
+fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 for i in range(buscount):
     Long = veh_act[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
     Lat = veh_act[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
