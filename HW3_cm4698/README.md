@@ -17,4 +17,9 @@ Dana C. and I worked together to formulate our hypotheses and clean the data. I 
 
 Assignment 3: Z-test Lab
 
-I worked with Rebecca, Emily, Dana, and Matt...
+This assignment we started in class, and Professor Bianco's walk-through of part of the lab was helpful
+for figuring out the formulas and hypothesis development. 
+
+I worked with Rebecca, Emily, Dana, and Matt to compare the statistics and conclusions about the Null
+hypothesis. I also received some insight from Rachel on describing the data and validating my means and
+standards of deviaton.
