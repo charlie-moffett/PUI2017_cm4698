@@ -8,3 +8,9 @@ Chi Square	| 1, pocket gopher distribution | categorical | 1, soil attributes | 
 Correlation      | 2, distance in space and time between the fish | continuous | 1, number of fish caught | continuous | 1, species | categorical | correlations between observations according to time, space, and fish size  | closer fish caught  <= farther spaced fish caught | 0.05 | [A Statistical Model for Estimation of Fish Density Including Correlation in Size, Space, Time and between Species from Research Survey Data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099151#pone.0099151.s008) |
   |||||||||
 
+| **Statistical Analyses        |  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **|
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Logist Regression   | 1, coronary heart disease | categorical | 4, hypertension, dyslipidemia, diabetes mellitus, and psoriasis | dichotomous | 2, sex and age | categorical |  investigate the association between psoriasis and CHD in a hospital-based population in Japan | patients with psoriasis and CHD  <= patients without psoriasis but with CHD | 0.0404 | [Association between Psoriasis Vulgaris and Coronary Heart Disease in a Hospital-Based Population in Japan](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149316) |
+  |||||||||
+
+
