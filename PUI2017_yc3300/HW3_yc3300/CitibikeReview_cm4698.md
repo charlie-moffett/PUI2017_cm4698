@@ -8,3 +8,4 @@ The data was has the appropriate features to answer the question user type and d
 
 # c. chose an appropriate test to test H0 given the type of data, and the question asked.
 
+This is a test of proprotions. Since we are dealing with categorical data (weekends vs. weekdays). If we were dealing with numerical data, it would be important to decide if they follow the parameters of the normal distribution curve (Gaussian curve), in which case parametric tests should be applied applied. In this case, however, I would choose a Chi-Squared test for heterogeneity because we're working with we're asking whether the data match an expected RATIO, with a priori expectations, working on one variable (rider count) and two samples (Customer and Subscriber). Per Professor Bianco's Hard-to-Employ example from class, you should apply Pearson's Chi-Squared test when the data is non-parametric!
