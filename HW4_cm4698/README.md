@@ -14,3 +14,10 @@ Logist Regression   | 1, coronary heart disease | categorical | 4, hypertension,
   |||||||||
 
 
+Assignment 1: Review your classmate's Citibike project proposal
+
+I worked alone on this assignment to review Yu's Citibike project proposal. I found some potential errorsin her null hypothesis formulation and identified the appropriate test for her scenario.
+
+Assignment 2: 
+
+
