@@ -18,6 +18,16 @@ Assignment 1: Review your classmate's Citibike project proposal
 
 I worked alone on this assignment to review Yu's Citibike project proposal. I found some potential errorsin her null hypothesis formulation and identified the appropriate test for her scenario.
 
-Assignment 2: 
+Assignment 2: Literature choices of statistical tests
+
+I worked on this assignment alone primarily, though learned how to format tables in markdown with Juan and helped Praveen figure out how to search for articles and fill in the tables with the right content.
+
+Assignement 3: Reproduce the analysis of the Hard to Employ program in NY
+
+A fair amount of my work for this notebook was done in class following along with Professor Bianco. I also worked with some of the part-time students over the weekend on formulating the tests and affiliated questions in python. In particular, I got help from Matt Sauter on the Chi Squared test.
+
+Assignment 4: Tests of correlation using the scipy package with citibike data.
+
+I struggled with the second half of this assignment. I worked closely with Matt Dwyer, Dana Chermesh, Sarah S. and Prince Ubunku on added new columns for the citibike data with each use and populating them with 1 and 0 values for day/night and Manhattan/Brooklyn respecitvely. 
 
 
