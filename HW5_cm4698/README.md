@@ -6,7 +6,7 @@ I worked with Matt Sauter to set up my z score formula, plot the distribution of
 
 Assignment 2:
 
-I worked with Matt Sauter to
+I used Professor Bianco's 'oh my goodness of fit' lab notebook to guide the first half of my work. A good deal of the second part of the assignment I accomplished by following along with Matt Sauter. In particular, his work to increase lambda on the Poisson was pivotal to my ability to plot the results, and my discussion of results was similarly impacted by the coding I witnessed him perform as we worked together.
 
 Assignment 3:
 
