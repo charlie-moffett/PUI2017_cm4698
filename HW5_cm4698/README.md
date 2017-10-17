@@ -2,7 +2,7 @@ Author: Charlie Moffett, NYU CUSP, 2017
 
 Assignment 1:
 
-I worked with Matt Sauter to 
+I worked with Matt Sauter to set up my z score formula, plot the distribution of z scores and fit it against the normal distribution I had created previously. I mostly followed along for this portion as I'm still getting a grip on z-score tests. The KS test I ran was set up with code I learned from Professor Bianco's lab notebook on proving z test in class.
 
 Assignment 2:
 
