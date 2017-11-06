@@ -14,3 +14,5 @@
 
 ## 3. Suggested Statistical Tests 
 - Using the table from CSUN. Since the male and female variables are unpaired and categorical, the Chi Square test which measures the differences between groups should be used. 
+
+# FBB good

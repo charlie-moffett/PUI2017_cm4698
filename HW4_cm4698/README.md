@@ -13,6 +13,9 @@ Correlation      | 2, distance in space and time between the fish | continuous |
 Logist Regression   | 1, coronary heart disease | categorical | 4, hypertension, dyslipidemia, diabetes mellitus, and psoriasis | dichotomous | 2, sex and age | categorical |  investigate the association between psoriasis and CHD in a hospital-based population in Japan | patients with psoriasis and CHD  <= patients without psoriasis but with CHD | 0.0404 | [Association between Psoriasis Vulgaris and Coronary Heart Disease in a Hospital-Based Population in Japan](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149316) |
   |||||||||
 
+# FBB your H0 should contain what is measured: moister soil distribution <= drier soil distribution should probably moister soil *density* <= drier soil *density*, 
+# correlation: generally the null is no relation: closer fish caught  == farther spaced fish caught
+# otherwise good
 
 Assignment 1: Review your classmate's Citibike project proposal
 
