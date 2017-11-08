@@ -10,3 +10,4 @@ Assignment 2:
 
 Completed most/all of this assignment in class with Professor Vo.
 
+I worked with Matt Dwyer to translate our SQL assignment into a jupyter notebook. We also completed the extra credit assignment together and recorded our results in two locations: the Assignment 2 notebook, which won't run unless you change the kernel from python 2 to 3, and a separate extra credit notebook, which should run right away as long as the kernel is set to python 3.
