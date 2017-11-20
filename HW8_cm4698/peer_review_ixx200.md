@@ -19,7 +19,7 @@ I think Charlie chose good graphical elements to support his key messsage. Alter
 
 ![Alt text](./sample_barchart.png?raw=true)
 
-Each bar can represent a State and percentage breakdown by city dweller vs. people who live in the suburban area (totpop - urb800). The absolute population count by states should also be included so that readers knows the actual population if they want to know more. 
+Each bar can represent a State. Percentage breakdown is by city dweller vs. people who live in the suburban area (totpop - urb800). The absolute population count by states should also be included so that readers knows the actual population if they want to know more. 
 
 This view may avoid the perception of "projecting" when scatter plot and regression line are used. It still speaks direclty to the message Charlie wanted to present.  
 
