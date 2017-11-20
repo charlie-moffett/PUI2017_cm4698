@@ -17,7 +17,7 @@ The plot is clear at first glance and the insight is very interesting. Here are 
 # Esthetic
 I think Charlie chose good graphical elements to support his key messsage. Alternatively, Charlie can considering using a side-by-side bar chart, such as this: 
 
-![Alt text](./sample_barchart.PNG?raw=true)
+![Alt text](./sample_barchart.png?raw=true)
 
 Each bar can represent a State and percentage breakdown by city dweller vs. people who live in the suburban area (totpop - urb800). This view may avoid the perception of "projecting" when scatter plot and regression line are used. It speaks more direclty to the message Charlie wanted to present.  
 
