@@ -9,3 +9,5 @@ I also uploaded my review markdown files to each of my peer's HW8 repos. This re
 The evaluations were made politely, along the lines of clarity, esthetic, and honesty.
 
 Assignment 2: census geospatial analysis
+
+I worked together with Matt Dwyer and Sunglyoung Kim throughout most steps of this assignment. As a group we figured out how to pull in the PUMA and AFF datasets, clean up our features, and plot our maps. They also helped me with reading in my API key correctly. All of the interpretation (represented in my figure captions) I did on my own.
