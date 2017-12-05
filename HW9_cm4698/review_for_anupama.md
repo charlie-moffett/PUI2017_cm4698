@@ -13,6 +13,8 @@ Esthetic
 
 If the story for this visualization is intended to draw the viewer to Brooklyn, I would recommend using a color other than gray for the highest quartile. Otherwise, the distinct symbology is useful and functional. The grid and axes could potentially be removed.
 
+# FBB good
+
 Honesty
 
 I think Anupama honestly visualizes her data here, since quartile is a specific method for splitting up bins. It would be interesting to see if different areas within Brooklyn would show different colors if equivalent or jenks was used. Nice work!
@@ -25,3 +27,6 @@ ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on t
 HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 Original Visualization
 
+# FBB good
+
+10/10
