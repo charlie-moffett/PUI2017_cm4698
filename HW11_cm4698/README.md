@@ -2,7 +2,7 @@ Author: Charlie Moffett, NYU CUSP, 2017
 
 Assignment 1: Time series clustering exercise
 
-
+I worked primarily with Gaurav on this assignment. I followed along with his manner of plotting the various time series clustering analyses and data cleaning, though the interpretations were entirely my own.
 
 Assignment 2: K-Means clustering optimization animation (lab)
 
